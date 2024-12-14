@@ -1,4 +1,5 @@
-**The Great Outdoors**
+**The Great Outdoors**  
+
 -->**About**
 -The Great Outdoors is a responsive website designed to inspire exploration and connect users with stunning destinations through captivating visuals and smooth animations.
 
