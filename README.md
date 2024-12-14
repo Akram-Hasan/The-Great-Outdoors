@@ -17,3 +17,15 @@
 
 ## **Website**
 -->Link:- https://the-great-outdoors.vercel.app/
+
+
+## Screenshots
+
+### Homepage
+![Homepage Screenshot](./assets/1.jpg)
+
+### Explore Section
+![Explore Section Screenshot](./assets/explore-section.png)
+
+### Journal Section
+![Journal Section Screenshot](./assets/journal-section.png)
