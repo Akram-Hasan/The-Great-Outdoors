@@ -22,7 +22,7 @@
 ## Screenshots
 
 ### Homepage
-![Homepage Screenshot](./assets/1.jpg)
+![Homepage Screenshot](./src/assets/1.jpg)
 
 ### Explore Section
 ![Explore Section Screenshot](./assets/explore-section.png)
