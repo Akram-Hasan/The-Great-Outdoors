@@ -35,7 +35,7 @@ const Footer = () => {
       {/* Footer Content */}
       <div className="relative z-20 text-center space-y-4 mb-6">
         <p className="text-gray-300 text-sm md:text-base hover:text-white transition duration-300 cursor-pointer">
-          Created by Akram Hasan
+          Developed by Akram Hasan
         </p>
 
         {/* Social Media Links */}
